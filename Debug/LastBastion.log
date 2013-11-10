@@ -1,0 +1,26 @@
+﻿  GamePlayState.cpp
+  TmxParser.lib(TmxPropertySet.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+GameEngine.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Generating code
+  Finished generating code
+  LastBastion.vcxproj -> E:\Libraries\Cloud Storage\Dropbox\School\14 - Fall 2013\LastBastion\Debug\LastBastion.exe
+  E:\libs\dlls\libFLAC-8.dll
+  E:\libs\dlls\libfreetype-6.dll
+  E:\libs\dlls\libjpeg-9.dll
+  E:\libs\dlls\libmikmod-2.dll
+  E:\libs\dlls\libmodplug-1.dll
+  E:\libs\dlls\libogg-0.dll
+  E:\libs\dlls\libpng16-16.dll
+  E:\libs\dlls\libtiff-5.dll
+  E:\libs\dlls\libvorbis-0.dll
+  E:\libs\dlls\libvorbisfile-3.dll
+  E:\libs\dlls\libwebp-4.dll
+  E:\libs\dlls\SDL2.dll
+  E:\libs\dlls\SDL2_image.dll
+  E:\libs\dlls\SDL2_mixer.dll
+  E:\libs\dlls\SDL2_net.dll
+  E:\libs\dlls\SDL2_ttf.dll
+  E:\libs\dlls\smpeg2.dll
+  E:\libs\dlls\zlib1.dll
+  18 File(s) copied

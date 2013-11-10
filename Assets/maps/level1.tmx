@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../sprites/tiles.png" width="331" height="133"/>
+ </tileset>
+ <tileset firstgid="41" name="meta_tiles" tilewidth="32" tileheight="32" margin="1">
+  <image source="../sprites/meta_tiles.png" width="99" height="34"/>
+  <tile id="0">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="1" value="1,1,1,1,1,1,1,1,1,1"/>
+    <property name="waypoint" value="s"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="Health" value="15"/>
+    <property name="waypoint" value="e"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztkzEOACAIAwn8/89MLibC1TAydGvKUcXNzIEC+o63EvEEnH17Cf8EG52p9NbxKWxdfypb15/KNvGmtL8fNrKvykTvY4Jv8zbvlaf+10oJhXgEGg==
+  </data>
+ </layer>
+ <layer name="Meta" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztkkEKACAIBP2O9f//RYdAonKsjgoLHpbdQVQRUaAKfV3eEM/w6bTvuggT4aNstJP46P0ibLZ3xRBlm/Ne2U7dUTbvfjdstj/C/vp/v/gyL/N2eUQF+hrrWhiF
+  </data>
+ </layer>
+</map>
